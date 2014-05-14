@@ -1,4 +1,4 @@
-MobFox iOS SDK
+MobFox Android SDK
 =====================
 
 Thank you for looking into the MobFox SDK. All our SDKs are available both open-source here on GitHub as well as as compiled libraries, downloadable through your MobFox account.
